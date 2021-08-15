@@ -1,0 +1,2 @@
+Texto de pruebas para el ejercicio 5.5-Controlar-Errores.go
+
