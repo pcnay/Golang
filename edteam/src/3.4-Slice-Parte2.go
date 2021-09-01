@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -57,3 +58,4 @@ func main() {
 	fmt.Printf("Tamaño 'arreglo2' con valores Zero = %d \n", len(arreglo2))
 	fmt.Printf("Capacidad 'arreglo2' con valores Zero = %d \n", cap(arreglo2))
 }
+*/

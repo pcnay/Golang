@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -49,3 +50,4 @@ func main() {
 	fmt.Printf("Mostrando la variable puntero de la clase -db- %+v \n", p)
 
 }
+*/

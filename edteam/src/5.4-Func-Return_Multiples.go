@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 	"strings"
@@ -23,3 +24,4 @@ func convert(text string) (string, string) {
 	mayusculas = strings.ToUpper(text)
 	return minusculas, mayusculas
 }
+*/

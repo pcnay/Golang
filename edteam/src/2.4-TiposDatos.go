@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -71,3 +72,4 @@ func main() {
 	fmt.Printf("Valor por defecto Booleano %v, \n", booleano)
 
 }
+*/

@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -13,3 +14,4 @@ func main() {
 		fmt.Printf("Llave = %v , Valor = %s \n", llave, valor)
 	}
 }
+*/

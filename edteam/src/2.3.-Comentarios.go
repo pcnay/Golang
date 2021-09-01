@@ -1,5 +1,6 @@
 package main
 
+/*
 func main() {
 	// Comentarios en linea
 	/*
@@ -13,5 +14,6 @@ func main() {
 			godoc.org/github.com/.. rutaProyectoGit
 			General en la Web un resumen de tu proyecto divido en secciones.
 
-	*/
+
 }
+*/

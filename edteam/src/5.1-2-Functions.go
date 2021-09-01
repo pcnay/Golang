@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -43,3 +44,4 @@ func cambiar_valor2(valor *string) {
 	*valor = "Nuevo Valor De Cadena"
 
 }
+*/

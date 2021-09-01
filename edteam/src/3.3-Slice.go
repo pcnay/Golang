@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -45,3 +46,4 @@ func main() {
 	// todos := arreglo[:]
 
 }
+*/

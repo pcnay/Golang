@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -24,3 +25,4 @@ func main() {
 	fmt.Printf("Imprimir los numeros %d \n", nums)
 
 }
+*/

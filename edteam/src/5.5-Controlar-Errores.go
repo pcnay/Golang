@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"errors"
 	"fmt"
@@ -32,7 +33,7 @@ func division(dividendo, divisor int) (resultado int, err error ) {
 }
 
 
-*/
+
 func main() {
 	// se utiliza una de las funciones integradas que se llama "ioutil"
 	// Esta funcion retorna dos valores : el contenido del archivo y el "error"
@@ -46,7 +47,7 @@ func main() {
 			// Se realiza el castig de la variable, ya que la funcion retorna el "bytes" que le corresponde
 			fmt.Printf("Imprimiendo el contenido del archivo %v\n", string(content))
 		}
-	*/
+
 
 	// La otra modificacion del "IF"
 	if err != nil {
@@ -69,3 +70,4 @@ func main() {
 	fmt.Printf("El resultado de la division %d \n", resultado)
 
 }
+*/

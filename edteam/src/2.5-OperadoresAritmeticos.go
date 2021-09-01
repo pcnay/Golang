@@ -1,5 +1,6 @@
 package main
 
+/*
 func main() {
 	// Operadores Aritmeticos: En ese orden de ejecución (), *, /, %, +, -
 	// En la ejecución de los parentesis, se sigue el mismo orden de adentro hacia afuera.
@@ -14,3 +15,4 @@ func main() {
 	// declaracion = c++ (c = c+1; asigna y suma 1)
 
 }
+*/

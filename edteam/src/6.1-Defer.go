@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -10,7 +11,7 @@ func main() {
 		defer fmt.Printf("Ejecucion linea 1 \n ") // Se ejecuta hasta el final.
 		fmt.Printf("Ejecucion linea 2 \n ")
 		fmt.Printf("Ejecucion linea 3 \n ")
-	*/
+
 	/*
 		// En el caso de que se encuetre varios "Defer"
 		// Los agregara en una pila y se ejecutara primero el último que entro. Es decir invierte la impresion.
@@ -18,7 +19,7 @@ func main() {
 		defer fmt.Printf("Ejecucion linea 10 \n ")
 		defer fmt.Printf("Ejecucion linea 20 \n ")
 		defer fmt.Printf("Ejecucion linea 30 \n ")
-	*/
+
 
 	// Otro ejemplo:
 	// Para este caso "a" tendrá 5, porque la asignacion es el momento aunque la se ejecuta despues.
@@ -29,3 +30,4 @@ func main() {
 	fmt.Printf("Valor de 'a' aplazada la asignacion = %d \n", a)
 
 }
+*/

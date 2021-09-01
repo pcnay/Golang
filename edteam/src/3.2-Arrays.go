@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -19,3 +20,4 @@ func main() {
 	fmt.Printf("El contenido del arreglo 'food2' = %v \n", food2)
 
 }
+*/

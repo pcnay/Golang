@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -24,4 +25,9 @@ func main() {
 	valor := m["Jose"]
 	fmt.Printf("El valor del indice %s, con el valor %v \n", "jose", valor)
 
+	// En caso de no encontrarlo, asigna el Zero Value, dependiendo del tipo de datos.
+	valor, error := m["Solis"]
+	fmt.Printf("Imprimir valor no encontrado * %v * , mensaje error ** %v  ** \n", valor, error)
+
 }
+*/

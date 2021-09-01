@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -29,3 +30,4 @@ func main() {
 	fmt.Printf("La suma total2 de la funcion -variatica- %d \n", total_suma2)
 
 }
+*/

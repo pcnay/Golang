@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -62,3 +63,4 @@ func main() {
 
 	// Ahora mandando un parámetro a la funcion que se envia como argumento
 }
+*/

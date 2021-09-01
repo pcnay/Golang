@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -47,3 +48,4 @@ func main() {
 	fmt.Printf("Imprimiendo el Map -animals- con el nuevo elemento %v \n", animals)
 
 }
+*/

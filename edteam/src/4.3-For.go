@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -9,3 +10,4 @@ func main() {
 		fmt.Printf("Imprimiendo el valor de ciclo %d \n", i)
 	}
 }
+*/

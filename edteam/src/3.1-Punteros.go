@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -31,3 +32,4 @@ func main() {
 	fmt.Printf("El tipo de dato = %T la direccion de memoria = %v de la variable 'fruit', obtener el valor de la dirección = %s \n ", p, p, *p)
 
 }
+*/

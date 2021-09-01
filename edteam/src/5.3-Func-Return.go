@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -12,3 +13,4 @@ func main() {
 func suma(num1 uint8, num2 uint8) uint8 {
 	return num1 + num2
 }
+*/
